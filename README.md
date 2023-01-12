@@ -401,7 +401,7 @@ Backup Faucet: https://goerlifaucet.com/
 <li><a href="#tests">Tests</a></li>
 </ul>
 </li>
-<li><a href="#dynamic-svg-on-chain-nft">Dynamic SVG On-Chain NFT</a><ul>
+<li><a href="#dynamic-svg-on-chain-nft">Dynamic SVG On-Chain NFT</a><ul> 
 <li><a href="#what-is-an-svg">What is an SVG?</a></li>
 <li><a href="#initial-code">Initial Code</a></li>
 <li><a href="#base64-encoding">Base64 Encoding</a></li>
